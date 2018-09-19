@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <project version="19.1">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
             <serialized version="19.1" xml:space="preserve">
+=======
+<project version="20.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized version="20.1" xml:space="preserve">
+>>>>>>> 10e91b63fa28a78bba8f0834eea8e652fdf19580
                 <serializableOrderedMap>
                     <entry>
                         <String>enable.project.master.files.support</String>
@@ -131,6 +139,12 @@
                                 <field name="webhelpResponsiveTemplate">
                                     <null/>
                                 </field>
+<<<<<<< HEAD
+=======
+                                <field name="publishingTemplateDataPO">
+                                    <null/>
+                                </field>
+>>>>>>> 10e91b63fa28a78bba8f0834eea8e652fdf19580
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -326,6 +340,12 @@
                                 <field name="webhelpResponsiveTemplate">
                                     <null/>
                                 </field>
+<<<<<<< HEAD
+=======
+                                <field name="publishingTemplateDataPO">
+                                    <null/>
+                                </field>
+>>>>>>> 10e91b63fa28a78bba8f0834eea8e652fdf19580
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -522,6 +542,12 @@
                                 <field name="webhelpResponsiveTemplate">
                                     <null/>
                                 </field>
+<<<<<<< HEAD
+=======
+                                <field name="publishingTemplateDataPO">
+                                    <null/>
+                                </field>
+>>>>>>> 10e91b63fa28a78bba8f0834eea8e652fdf19580
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -717,6 +743,12 @@
                                 <field name="webhelpResponsiveTemplate">
                                     <null/>
                                 </field>
+<<<<<<< HEAD
+=======
+                                <field name="publishingTemplateDataPO">
+                                    <null/>
+                                </field>
+>>>>>>> 10e91b63fa28a78bba8f0834eea8e652fdf19580
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -913,6 +945,12 @@
                                 <field name="webhelpResponsiveTemplate">
                                     <null/>
                                 </field>
+<<<<<<< HEAD
+=======
+                                <field name="publishingTemplateDataPO">
+                                    <null/>
+                                </field>
+>>>>>>> 10e91b63fa28a78bba8f0834eea8e652fdf19580
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -1108,6 +1146,12 @@
                                 <field name="webhelpResponsiveTemplate">
                                     <null/>
                                 </field>
+<<<<<<< HEAD
+=======
+                                <field name="publishingTemplateDataPO">
+                                    <null/>
+                                </field>
+>>>>>>> 10e91b63fa28a78bba8f0834eea8e652fdf19580
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -1304,6 +1348,12 @@
                                 <field name="webhelpResponsiveTemplate">
                                     <null/>
                                 </field>
+<<<<<<< HEAD
+=======
+                                <field name="publishingTemplateDataPO">
+                                    <null/>
+                                </field>
+>>>>>>> 10e91b63fa28a78bba8f0834eea8e652fdf19580
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>
@@ -1499,6 +1549,12 @@
                                 <field name="webhelpResponsiveTemplate">
                                     <null/>
                                 </field>
+<<<<<<< HEAD
+=======
+                                <field name="publishingTemplateDataPO">
+                                    <null/>
+                                </field>
+>>>>>>> 10e91b63fa28a78bba8f0834eea8e652fdf19580
                                 <field name="additionalAntArgs">
                                     <String></String>
                                 </field>

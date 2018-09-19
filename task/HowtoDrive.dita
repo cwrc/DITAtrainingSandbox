@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_sxz_gyv_2fb">
+    <title>How to Drive</title>
+    <shortdesc>This will guarantee you impeccable driving skills</shortdesc>
+    <taskbody>
+        <context>Follow these steps to become the driver you want to be:<p></p></context>
+        <steps>
+            <step>
+                <cmd>Get into you car</cmd>
+                <substeps id="substeps_hw5_hzv_2fb">
+                    <substep>
+                        <cmd>Make sure you own this car</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Do not enter unless it is shiny</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Fasten your seatbelt</cmd>
+            </step>
+            <step>
+                <cmd>Insert key into ignition</cmd>
+            </step>
+            <step>
+                <cmd>Rev your hemmy until it sounds like it is about to blow up</cmd>
+            </step>
+            <step>
+                <cmd>Shoot out of your driveway like a hellbent comet</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="HowtoDrive.dita"></link>
+    </related-links>
+</task>
