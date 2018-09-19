@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_vkh_syv_2fb">
+    <title>How to set up a child seat</title>
+    <shortdesc>This task describes the process of installing a child's seat in your new Mini.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Place the child seat on the rear left seat in the car.</cmd>
+                <substeps id="substeps_cn5_fzv_2fb">
+                    <substep>
+                        <cmd>Position the child seat with the headrest nearest to the back of the left passenger seat.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Jiggle the car seat to ensure it is firmly situated in the back seat of the car.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Pull out the </cmd>
+            </step>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="../task/Fasteningseatbelts.dita"></link>
+    </related-links>
+</task>
