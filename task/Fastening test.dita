@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rqp_3yv_2fb">
+    <title>How to set up a child seat</title>
+    <shortdesc>This task explains how to set up a child seat in an old Mini car</shortdesc>
+    <taskbody>
+        <context>
+            <p>You need to have a three point adapter instlaled in your car before you proceed with installing the child seat</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Place the child seat in the car</cmd>
+            </step>
+            <step>
+                <cmd>Fasten the seatbelt</cmd>
+                <substeps id="substeps_c4r_xyv_2fb">
+                    <substep>
+                        <cmd>Make sure the child is there</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Look at the instructions</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="Fasteningseatbelts.dita#fasteningseatbelts"></link>
+    </related-links>
+</task>
