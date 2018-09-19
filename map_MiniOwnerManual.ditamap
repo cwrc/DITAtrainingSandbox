@@ -35,6 +35,7 @@
   </topicref>
   <topicref href="concept/Driving.dita">
    <topicref href="task/usingpedalcontrols.dita"/>
+   <topicref href="task/HowtoDrive.dita"></topicref>
    <topicref href="task/changinggears.dita"/>
    <topicref href="task/usinghandbrake.dita"/>
    <topicref href="task/soundinghorn.dita"/>
